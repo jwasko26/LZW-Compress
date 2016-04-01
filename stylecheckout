@@ -1,0 +1,4 @@
+Style checking MyLib.h
+Style checking Compress.c
+Style checking CodeSet.c
+Style checking LZWCmp.c
